@@ -1,0 +1,15 @@
+.counter {
+  text-align:center;
+  border: 1px solid black;
+  width: 200px;
+  min-height: 150px;
+  margin-top:200px
+}
+body{
+  display:flex;
+  justify-content: center; 
+}
+.btn {
+  display:flex;
+  justify-content: space-around;
+}
